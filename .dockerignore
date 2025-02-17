@@ -1,0 +1,19 @@
+# Contents of the file: /pdf_splitter/pdf_splitter/.dockerignore
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.env
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+*.tar.gz
+*.zip
+tests/
